@@ -15,7 +15,7 @@ An interactive storytelling website that showcases the journey of a developer �
 - ScrollTrigger
 
 ## 🔗 Live Demo
-(Add your deployed link here)
+https://life-of-a-developer-n44l0fu00-ritika-singhs-projects-63be2001.vercel.app/
 
 ## 💡 Concept
 This project turns a developer's journey into a fun, relatable, and immersive visual experience.
